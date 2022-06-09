@@ -25,8 +25,8 @@
 			&kp GRAVE &kp F1 &kp F2 &kp F3 &kp F4 &kp F5 &kp F6 &kp F7 &kp F8 &kp F9 &kp F10 &kp F11 &kp F12 &kp PRINTSCREEN &kp INS 
 			&reset &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 
 			&trans &kp C_VOLUME_DOWN &kp C_VOLUME_UP &kp C_MUTE &kp C_EJECT &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 
-			BL_OFF &bt BT_CLR &bt BT_PRV &bt BT_NXT &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp UP  
-			LEFT_CONTROL &trans &kp LEFT_ALT &kp SPACE &kp RIGHT_ALT &kp LEFT &kp DOWN &kp RIGHT
+			&bl BL_OFF &bt BT_CLR &bt BT_PRV &bt BT_NXT &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp F20 &kp UP  
+			&kp LEFT_CONTROL &trans &kp LEFT_ALT &kp SPACE &kp RIGHT_ALT &kp LEFT &kp DOWN &kp RIGHT
 			>;
 		};
 	};
